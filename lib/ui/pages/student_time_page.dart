@@ -119,7 +119,7 @@ class _StudentTimeState extends State<StudentTimeView>
                       borderRadius: BorderRadius.circular(25),
                     ),
                     child: Text(
-                      "DANH SÁCH SINH VIÊN - $todayDate",
+                      "DANH SÁCH HỌC SINH- $todayDate",
                       style: AppTextStyle.blackS24Bold,
                     ),
                   ),
